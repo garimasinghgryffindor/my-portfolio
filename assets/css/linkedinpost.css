@@ -1,0 +1,8 @@
+.post-content > iframe{
+    border-radius: 14px;
+}
+
+.post-content {
+    text-align: center;
+    margin: auto;
+}

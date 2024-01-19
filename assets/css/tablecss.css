@@ -1,0 +1,18 @@
+table {
+  border-collapse: separate;
+  border-spacing: 3px;
+  width: 100%;
+}
+
+td {
+  height: 10px;
+  /*border: 1px solid #eee;*/
+  border-radius: 1px;
+}
+
+.color-0 { background-color: #ffffff47; }
+.color-1 { background-color: #90dc9d; }
+.color-2 { background-color: #40bb61; }
+.color-3 { background-color: #2f984b; }
+.color-4 { background-color: #206b38; }
+.color-5 { background-color: #0d361a; }

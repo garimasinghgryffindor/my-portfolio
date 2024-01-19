@@ -1,0 +1,8 @@
+.badge {
+    width: 91px;
+}
+
+.badges {
+    display: flex;
+    justify-content: space-around;
+}
