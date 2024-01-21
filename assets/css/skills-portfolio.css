@@ -1,0 +1,25 @@
+.skills-portfolio {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.skills-portfolio > .skills-portfolio-icons{
+    margin: 8px;
+    /*text-align: center;*/
+}
+
+.skills-portfolio-icons > img {
+    /*border-radius: 5px;*/
+    /*text-align: center;*/
+    margin: auto;
+}
+
+.hazy-container {
+    display: inline-block;
+    position: relative;
+    background-color: rgb(255, 255, 255); /* Set the hazy white background color with alpha */
+    padding: 7px;
+    border-radius: 20px; /* Adjust as needed */
+  }
+  
