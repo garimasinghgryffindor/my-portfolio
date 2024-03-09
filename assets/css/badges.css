@@ -4,5 +4,6 @@
 
 .badges {
     display: flex;
-    justify-content: space-around;
+    /*justify-content: space-between;*/
+    column-gap: 80px;
 }
